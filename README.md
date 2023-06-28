@@ -12,7 +12,7 @@
 
 ## 📚 My Skill Sets  
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="32%">
   
 <div align="center"> 
   <h1>Tools</h1>
@@ -24,7 +24,7 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="36%">
 
 <div align="center"> 
   <h1>ML & DL</h1>
@@ -39,7 +39,7 @@
 </div>
 
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="32%">
 
 <div align="center"> 
   <h1>Front End</h1>
@@ -53,7 +53,7 @@
 
 <br/> 
 
-## 🧩 Other
+## 🧩 Other skills
 <div align="center">  
 <img src="https://skillicons.dev/icons?i=c,cs,css,html,eclipse,idea,js,mongodb,unity,vscode" />
 </div>
