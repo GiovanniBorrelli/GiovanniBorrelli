@@ -53,6 +53,11 @@
 
 <br/> 
 
+## 🧩 Other
+<div align="center">  
+<img src="https://skillicons.dev/icons?i=c,cs,css,html,eclipse,idea,js,mongodb,unity,vscode" />
+</div>
+
 ## 📈 Stats
 <div align="center">
     </a>
