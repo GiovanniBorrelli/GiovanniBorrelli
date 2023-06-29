@@ -53,9 +53,13 @@
 
 <br/> 
 
-## 🧩 Other skills
+## 🧩 Other skills/apps
 <div align="center">  
-<img src="https://skillicons.dev/icons?i=c,cs,css,html,eclipse,idea,js,mongodb,unity,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cs,css,html,eclipse,idea,js,mongodb,unity,vscode" />
+</div>
+  <div align="center">  
+  <img height=50 src="https://gitlab.com/monopolies/monopolies.net/-/raw/master/logos/atlassian/trello.svg"/>
+  <img height=50 src=https://gitlab.com/monopolies/monopolies.net/-/raw/master/logos/salesforce/slack.svg/>
 </div>
 
 ## 📈 Stats
