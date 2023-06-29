@@ -12,7 +12,7 @@
 
 ## 📚 My Skill Sets  
 
-<table><tr><td valign="top" width="32%">
+<table align="center"><tr><td valign="top" width="32%">
   
 <div align="center"> 
   <h1>Tools</h1>
