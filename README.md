@@ -67,11 +67,14 @@
     </a>
 <a href="https://github.com/qwerty541#gh-dark-mode-only">
     <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=GiovanniBorrelli&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only"
+      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=GiovanniBorrelli&size_weight=0.5&count_weight=0.5&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only"
       alt="My Language stats"
       height="250"
+      width="500"
     />
   </a>
+  </div>
+  <div align="center">
   <a href="https://github.com/qwerty541#gh-dark-mode-only">
     <img
        src="https://streak-stats.demolab.com/?user=GiovanniBorrelli&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
