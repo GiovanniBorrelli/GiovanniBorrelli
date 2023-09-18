@@ -92,3 +92,7 @@
        alt="My GitHub streak stats"
      />
 </div>
+    
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=GiovanniBorrelli&color=ff69b4"><img/>
+<p/>
