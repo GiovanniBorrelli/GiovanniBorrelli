@@ -76,7 +76,7 @@
 ## 📈 Stats
 <div align="center">
     </a>
-<a href="https://github.com/qwerty541#gh-dark-mode-only">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniBorrelli&bg_color=30,2AC3C4,904e95&title_color=fff&text_color=fff"
       alt="My Language stats"
