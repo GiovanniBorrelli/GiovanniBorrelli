@@ -4,7 +4,7 @@
 -->
 - 👋 Hi there, I'm Giovanni Borrelli
 - 🌎 I am from Italy
-- 🔭 I’m currently working on a front end website project
+- 🔭 I’m currently working on a NLP project
 - 🌱 I’m currently learning ML and DL
 - ⚡ I'm interested in Artificial Intelligence and Interface Design
 
